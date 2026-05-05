@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+.env
+uv.lock
+LICENSE
+tests/
+
+pyproject.toml
+.python-version
